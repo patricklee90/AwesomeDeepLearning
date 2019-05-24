@@ -4,6 +4,11 @@ A Deep Learning Journey since May 2019
 ## Data Convert
 1. [HDF5 with Python](https://www.youtube.com/watch?v=y4DXr3Y10MM&list=PLea0WJq13cnB_ORdGzEkPlZEN20TSt6Lx), by Noureddin Sadawi (2016)
 
+## Online Tutorial
+
+### Keras
+1. [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN), by sendex (2018)
+
 ## Papers
 
 ### Optimization
