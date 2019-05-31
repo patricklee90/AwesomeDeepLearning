@@ -21,6 +21,13 @@ A Deep Learning Journey since May 2019
 ### Optimization
 1. [Adam Optimization](https://arxiv.org/pdf/1412.6980.pdf), by Diederik P. Kingma et. al.(2015)
 
+### RCNN
+1. [RCNN](https://arxiv.org/pdf/1311.2524.pdf), by Ross Girshick et. al.(2014)
+2. [Faster-RCNN](https://arxiv.org/pdf/1506.01497.pdf), by Shaoqing Ren et. al.(2016)
+
+### MobilNet
+1. [MobileNet](https://arxiv.org/pdf/1704.04861.pdf), by Andrew G. Howard et. al. (2017)
+
 ## GitHub Resources
 1. [Awesome Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books),GitHub, by ChristosChristofidis
 
