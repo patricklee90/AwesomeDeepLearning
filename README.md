@@ -6,8 +6,15 @@ A Deep Learning Journey since May 2019
 
 ## Online Tutorial
 
-### Keras
-1. [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN), by sendex (2018)
+### Framework
+
+#### Keras
+1. [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN), Youtube, by sendex (2018)
+
+### Architechture
+
+#### MobilNet
+1. [Fine-tuning MobileNet with Keras](https://www.youtube.com/watch?v=4Tcqw5oIfIg&list=PLkZiCZyv_5PUuyJvvsd_gesWek3GXZAXH), by deeplizard (2018)
 
 ## Papers
 
