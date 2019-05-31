@@ -33,3 +33,6 @@ A Deep Learning Journey since May 2019
 
 ## Online Courses
 1. [Neural Network and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning/),Coursera, by Andrew Ng
+
+## Data Set
+1. [Dataturks Open Dataset](https://dataturks.com/projects/trending), by Dataturks
