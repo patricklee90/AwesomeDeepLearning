@@ -27,7 +27,7 @@ A Deep Learning Journey since May 2019
 
 ### MobilNet
 1. [MobileNet](https://arxiv.org/pdf/1704.04861.pdf), by Andrew G. Howard et. al. (2017)
-2. [MobileNet, Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py), by Keras (15 Apr 2019)
+2. [Source Code, Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py), by Keras (15 Apr 2019)
 
 ## GitHub Resources
 1. [Awesome Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books),GitHub, by ChristosChristofidis
