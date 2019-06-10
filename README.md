@@ -16,7 +16,7 @@ A Deep Learning Journey since May 2019
 #### MobilNet
 1. [Fine-tuning MobileNet with Keras](https://www.youtube.com/watch?v=4Tcqw5oIfIg&list=PLkZiCZyv_5PUuyJvvsd_gesWek3GXZAXH), by deeplizard (2018)
 
-## Papers
+## Papers & Source Code
 
 ### Optimization
 1. [Adam Optimization](https://arxiv.org/pdf/1412.6980.pdf), by Diederik P. Kingma et. al.(2015)
@@ -27,6 +27,7 @@ A Deep Learning Journey since May 2019
 
 ### MobilNet
 1. [MobileNet](https://arxiv.org/pdf/1704.04861.pdf), by Andrew G. Howard et. al. (2017)
+2. [MobileNet, Keras](https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py), by Keras (15 Apr 2019)
 
 ## GitHub Resources
 1. [Awesome Deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning#free-online-books),GitHub, by ChristosChristofidis
