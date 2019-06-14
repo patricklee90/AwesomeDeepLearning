@@ -6,7 +6,7 @@ A Deep Learning Journey since May 2019
 
 ## Online Tutorial
 
-### <p style='color:red'>Framework</p>
+### Framework
 
 #### Keras
 1. [Deep Learning basics with Python, TensorFlow and Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN), Youtube, by sendex (2018)
