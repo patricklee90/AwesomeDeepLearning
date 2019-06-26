@@ -4,6 +4,8 @@ Mathematic is the essential component when dealing with deep learning, so it is 
 
 
 ## Least Common Multiple(LCM)
+[LCM introduction](https://www.youtube.com/watch?v=vmMAKkEWTAI), by MathSmart, Youtube
+[LCM](https://en.wikipedia.org/wiki/Least_common_multiple), by Wikipedia
 - smallest common multiple of two integers a and b, usually denoted by LCM(a, b), is the smallest positive integer that is divisible by both a and b.
 - that can be used before fractions can be added, subtracted or compared. 
 - The LCM of more than two integers is also well-defined: it is the smallest positive integer that is divisible by each of them.
