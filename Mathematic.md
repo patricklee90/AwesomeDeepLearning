@@ -10,8 +10,8 @@ Mathematic is the essential component when dealing with deep learning, so it is 
 - that can be used before fractions can be added, subtracted or compared. 
 - The LCM of more than two integers is also well-defined: it is the smallest positive integer that is divisible by each of them.
 
-'''C#
-public static int getTotalX(List<int> a, List<int> b)
+'''csharp
+ public static int getTotalX(List<int> a, List<int> b)
     {
         List<int> consideredInt = new List<int>();
 
