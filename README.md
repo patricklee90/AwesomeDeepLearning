@@ -1,6 +1,10 @@
 # AwesomeDeepLearning
 A Deep Learning Journey since May 2019
 
+## Awesome Tools
+[Scientific Papers](https://zhuanlan.zhihu.com/p/33208471), chinese version.
+[Open Source Software](https://zhuanlan.zhihu.com/p/61843270)
+
 ## Preprocessing
 
 ### Data Convert
@@ -42,3 +46,4 @@ A Deep Learning Journey since May 2019
 
 ## Data Set
 1. [Dataturks Open Dataset](https://dataturks.com/projects/trending), by Dataturks
+2. [List of Open Source Data](https://www.jianshu.com/p/7f32da6d0163)
